@@ -2,8 +2,8 @@
  * Contructor for my JS app
  */
 var tintupTweetApp = function () {
-    this.baseUrl = "https://sentimentanalys.herokuapp.com/";
-    this.modelsBaseUrl = "https://sentimentanalys.herokuapp.com/models/";
+    this.baseUrl = "https://victor-zubov-2018.herokuapp.com/";
+    this.modelsBaseUrl = "https://victor-zubov-2018.herokuapp.com/models/";
     this.sentimentColorMap = {
         'pos': 'green',
         'neg': 'red',
